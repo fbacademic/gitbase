@@ -1,1 +1,1 @@
-print('Olá Turma Muito Boa.')
+print('Olá Turma Só Boa.')
